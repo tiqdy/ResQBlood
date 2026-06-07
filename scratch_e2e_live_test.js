@@ -1,6 +1,3 @@
-const url = "https://gwuikypvutxlssfvurya.supabase.co";
-const anonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd3dWlreXB2dXR4bHNzZnZ1cnlhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA3MzA3MDYsImV4cCI6MjA5NjMwNjcwNn0.kBaxXy6ioM8djUiXseoTB5bOc1iW3dR5uqBMhUfwtTs";
-
 async function post(path, body, token) {
   const headers = {
     "apikey": anonKey,
