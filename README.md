@@ -415,9 +415,9 @@ ResQBlood/
 ResQBlood follows the **Agile Scrum** methodology across **4 sprints**.
 
 ### Why Agile?
-- Allows iterative delivery — core features ship first, polish follows
+- Allows iterative delivery core features ship first, polish follows
 - Enables continuous feedback from testing and peer review
-- Supports a 3-person team with parallel feature development across branches
+- Supports team with parallel feature development across branches
 - Sprint retrospectives catch blockers early
 
 ### Sprint Plan
